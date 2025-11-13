@@ -55,7 +55,7 @@
 ### 🚀 Featured Projects
 | Project | Description | Tech Stack | Link |
 |----------|--------------|------------|------|
-| 🛒 **AI Text Summarizer App** | AI-based web app to summarize text input dynamically | React.js, Tailwind CSS, OpenAI API | [View Repo](https://github.com/hashanathurugiriya/ai-text-summarizer) |
+| 🛒 **AI Text Summarizer App** | AI-based web app to summarize text input dynamically | React.js, Tailwind CSS, OpenAI API | [View Repo](https://github.com/hashan-athu/ai-text-summarizer) |
 | ⚙️ **Ticket Management System** | Full-stack CRUD app for managing internal IT tickets | PHP, MySQL, jQuery AJAX | Coming soon |
 | 🌐 **3D Portfolio Website** | Interactive 3D portfolio built using Three.js | React.js, Three.js, Tailwind | [Portfolio](https://hashanathurugiriya.me) |
 | 🚗 **Browns EV Website** | Corporate website for electric vehicle brand | HTML, CSS, JS, Bootstrap | [Visit](https://brownsev.com/) |
@@ -73,12 +73,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashanathurugiriya&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashanathurugiriya&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hashan-athu&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashan-athu&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashanathurugiriya&layout=compact&theme=tokyonight" alt="Top Languages" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashan-athu&layout=compact&theme=tokyonight" alt="Top Languages" height="140"/>
 </p>
 
 ---
