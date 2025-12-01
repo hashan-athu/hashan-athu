@@ -20,7 +20,7 @@
 - 💼 Currently working as a **Senior Executive - Web Development** and founder of **Elevate Labs**  
 - 🧠 Skilled in **Full Stack Development**, **UI/UX**, **Technical SEO**, and **Interactive Web Applications**
 - 🌱 Continuously learning **ReactJS**, **Three.js**, **GSAP**, **Laravel**, and **Swift UI**  
-- 🎯 Goal: To innovate in the **Digital Solutions** for **Real World Solutions**
+- 🎯 Goal: To innovate in the **Digital Solutions** for **Real World Problems**
 
 ---
 
@@ -77,11 +77,7 @@
 ---
 
 ### 🏅 Certifications & Achievements
-- 🎓 **Higher National Diploma in Telecommunication Technology**  
-- 💻 **Diploma in Software Engineering (Java OOP)**  
-- 🌍 **Facebook Translator – Sinhala (Top 10 in Leaderboard)**  
-- 🗺️ **Google Maps Local Guide Level 7 (4.9M+ views)**  
-- 🧠 **Vue Mastery – Vue.js 3 Course in Progress**
+- 🎓 **Bachelors in Information Technology**
 
 ---
 
