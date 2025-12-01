@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi there 👋, I'm Hashan Athurugiriya</h1>
-<h3 align="center">Full Stack Web Developer | UI Designer | SEO Specialist</h3>
+<h3 align="center">Full Stack Web Developer | UI Designer | MERN, Laravel</h3>
 
 <p align="center">
   <a href="https://hashanathurugiriya.me" target="_blank">
@@ -17,13 +17,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 💼 Currently working at **eBEYONDS** as a **Full Stack Web Developer**  
-- 🧠 Skilled in both **Frontend & Backend Development**, API integration, and UI design  
-- 🌱 Continuously learning **Vue.js 3**, **Three.js**, and **AI-integrated web apps**  
-- 🌍 Volunteering as:
-  - Facebook **Translator (Ranked #8 Sinhala)**
-  - **Google Maps Local Guide** (Level 7, 3,300+ contributions, 4.9M+ views)
-- 🎯 Goal: To innovate in the intersection of **AI and web development**  
+- 💼 Currently working as a **Senior Executive - Web Development** and founder of **Elevate Labs**  
+- 🧠 Skilled in **Full Stack Development**, **UI/UX**, **Technical SEO**, and **Interactive Web Applications**
+- 🌱 Continuously learning **ReactJS**, **Three.js**, **GSAP**, **Laravel**, and **Swift UI**  
+- 🎯 Goal: To innovate in the **Digital Solutions** for **Real World Solutions**
 
 ---
 
@@ -86,8 +83,8 @@
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://hashanathurugiriya.me"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hashanathurugiriya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:hashanathurugiriya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hashan-athurugiriya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hello@hashanathurugiriya.me"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
