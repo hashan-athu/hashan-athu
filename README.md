@@ -6,10 +6,10 @@
   <a href="https://hashanathurugiriya.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/hashanathurugiriya/" target="_blank">
+  <a href="https://www.linkedin.com/in/hashan-athurugiriya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.buymeacoffee.com/hashanathurugiriya" target="_blank">
+  <a href="https://buymeacoffee.com/hashan.athuru" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
